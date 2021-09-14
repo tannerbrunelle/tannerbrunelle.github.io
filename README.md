@@ -1,16 +1,10 @@
 ## Welcome to Tanner's website
+ISAT 252
+Semester Plan
 
-You can use the [editor on GitHub](https://github.com/tannerbrunelle/tannerbrunelle.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-
-
-
-1. Learn Python 
-2. Write a "Hello
+1. Learn Pyhton
+So far in this course I have doenloaded Python. In the next week I plan to research and learn introductory programs. 
+2. Write a "Hello, World!" code
 
 **Bold** and _Italic_ and `Code` text
 
