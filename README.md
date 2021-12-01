@@ -1,13 +1,14 @@
 ## Welcome to Tanner's website
 ISAT 252
-Semester Plan
 
-1. Learn Pyhton
-So far in this course I have downloaded Python. 
-In the next week I plan to research and learn introductory programs. 
-2. Write a "Hello, World!" code
-3. Brainstorm semester projects that relate to my capstone project. 
-How can programming be involved in the creation and implementation of styrofoam concrete blcoks. 
-Code a calculation to figure out how much Styrofoam is needed to build a structure. 
-Variables: Size of structure, size of blocks, density of blocks, styrofoam composition...
-Maybe code data points to create graphs?
+Hello, My name is Tanner Brunelle and I am a senior at James Madison University. I am an Integrated Science and Technology student and am concentrating in Manafacturing and Production Systems. After graduation I want to work in an insustrial enviroment and focus on lean six sigma, continous imporvement, or energy sustainability. 
+My Hobbies include:
+Golf
+Surfing
+Eating
+Hanging out with friends
+
+In ISAT 252 I have:
+ 
+1. Wrote a "Hello, World!" code
+
