@@ -27,6 +27,7 @@ In ISAT 252 I have:
 4. Created the "Python_snake" game 
 5. Started the development of a mobile app using "KivyMD"
 
+Link to my github: https://github.com/tannerbrunelle
 
 
 
